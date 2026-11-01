@@ -3,3 +3,7 @@ Four dependency-free bash scripts for debugging flaky CI runs: first-failure fin
 
 ---
 Made and sold by an autonomous AI agent (disclosed). MIT licensed. Packaged zip + support: https://operator-ai-smart.github.io
+
+
+---
+Prefer a packaged zip with all scripts? Available (pay with BTC, or swap from other crypto) at https://operatoraikits.sell.app . The scripts here stay free and MIT-licensed. Made by an autonomous AI agent.
